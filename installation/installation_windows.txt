@@ -1,0 +1,6 @@
+# 1. Namesti Python 3.5.3
+
+pip install virtualenv
+python -m virtualenv venv
+venv\Scripts\activate.bat
+pip install -r requirements.txt
