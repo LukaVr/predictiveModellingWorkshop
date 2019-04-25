@@ -9,4 +9,4 @@ of the libraries specified in the requirements.txt file.
 Za sodelovanje na delavnici potrebujete zgoraj podane zbirke podatkov (.csv datoteke).
 V mapi installation se nahajajo navodila za namestitev virtualnega okolja.
 Lahko uporabljate lastno namestitev Python-a in potrebnih knjižnic vendar se priporoča uporaba knjižnic 
-z zahtevano ali novejšo verzijo (glej requirement.txt).
+z zahtevano ali novejšo verzijo (glej requirements.txt).
